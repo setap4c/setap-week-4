@@ -27,3 +27,5 @@ Prescriptions should be reordered every 30 days
 
 Stand alone app - doesn't share data with NHS app or any other app
 
+## Delevery service
+User would like the app to have a delivery service in the event they or otheir carers aren't able to pick up their medication.
