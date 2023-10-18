@@ -16,9 +16,14 @@ User would like to be notified roughly 5 days in advance of running out. The spe
 
 User should be reminded on an adjustable regular schedule, typically every month.
 
+
+## Updating infomation
+User should be able to update their infomation such as changing their gp or liked prefered pharmacy
+
 ## Adding Data
 User will provide DoB, lit of medication, preferred pharmacy etc
 But the app should take care of reordering so the patient should just be able to turn up and collect the medicine
 Prescriptions should be reordered every 30 days
 
 Stand alone app - doesn't share data with NHS app or any other app
+
