@@ -5,6 +5,12 @@ User would like to be able view, order and collect prescriptions for people they
 
 Partner sharing should be alongside the user also being able to be a *patient* themself.
 
+
+##Push notifications and interlinking data from other relevant apps such as the NHS app.
+
+User would like the app to be a standalone app and not involve the transfer of information from any other applications.The 
+user would prefer any delays to prescription collection to be communicated in advance, notification when prescription is ready and double checking with the user about their decision to collect notification to ensure that they are conscious of their decision.
+
 ## Advance Notice
 User would like to be notified roughly 5 days in advance of running out. The specific number of days should be adjustable, up to 2 weeks.
 
