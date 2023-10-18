@@ -9,3 +9,6 @@ Partner sharing should be alongside the user also being able to be a *patient* t
 User would like to be notified roughly 5 days in advance of running out. The specific number of days should be adjustable, up to 2 weeks.
 
 User should be reminded on an adjustable regular schedule, typically every month.
+
+## Updating infomation
+User should be able to update their infomation such as changing their gp or liked prefered pharmacy
